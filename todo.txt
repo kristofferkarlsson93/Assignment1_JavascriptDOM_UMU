@@ -1,0 +1,9 @@
+/*
+ 1. kolla så inget är tomt
+
+ 2. Kolla så E-post är korrekt formaterad
+
+ 3.medelande ska vara < 200 tecken.
+
+ 4. om valt föreläsning/seminarium måste titel vara ifylld.
+*/
